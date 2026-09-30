@@ -1,0 +1,139 @@
+Team Name,Conference,Starting Unbiased Score,Starting Biased Score,Current Unbiased Score,Current Biased Score
+Duke,ACC,600,900,600,-300
+Virginia,ACC,600,1100,600,1100
+Miami (FL),ACC,600,1300,600,1300
+Georgia Tech,ACC,600,900,600,900
+SMU,ACC,600,900,600,900
+Pitt,ACC,600,800,600,800
+Louisville,ACC,600,900,600,900
+Wake Forest,ACC,600,900,600,900
+North Carolina State,ACC,600,800,600,800
+California,ACC,600,700,600,700
+Clemson,ACC,600,700,600,700
+Stanford,ACC,600,400,600,400
+Florida State,ACC,600,500,600,500
+North Carolina,ACC,600,400,600,400
+Virginia Tech,ACC,600,300,600,300
+Syracuse,ACC,600,300,600,300
+Boston College,ACC,600,200,600,200
+Tulane,American,600,1100,600,1100
+North Texas,American,600,1200,600,1200
+Navy,American,600,1100,600,1100
+East Caroline,American,600,900,600,900
+South Florida,American,600,900,600,900
+Memphis,American,600,800,600,800
+Army,American,600,700,600,700
+UTSA,American,600,700,600,700
+Temple,American,600,500,600,500
+Florida Atlantic,American,600,400,600,400
+Rice,American,600,500,600,500
+UAB,American,600,400,600,400
+Tulsa,American,600,400,600,400
+Charlotte,American,600,100,600,100
+Utah,Big 12,600,1100,600,1100
+Houston,Big 12,600,1000,600,1000
+Arizona,Big 12,600,900,600,900
+Arizona State,Big 12,600,800,600,800
+Cincinnati,Big 12,600,700,600,700
+UCF,Big 12,600,500,600,500
+Colorado,Big 12,600,300,600,300
+Texas Tech,Big 12,600,1200,600,1200
+BYU,Big 12,600,1200,600,1200
+TCU,Big 12,600,900,600,900
+Iowa State,Big 12,600,800,600,800
+Kansas State,Big 12,600,600,600,600
+Baylor,Big 12,600,500,600,500
+Kansas,Big 12,600,500,600,500
+West Virginia,Big 12,600,400,600,400
+Oklahoma State,Big 12,600,100,600,100
+Indiana,Big Ten,600,1600,600,1600
+Ohio State,Big Ten,600,1200,600,1200
+Oregon,Big Ten,600,1300,600,1300
+Michigan,Big Ten,600,900,600,900
+USC,Big Ten,600,900,600,900
+Iowa,Big Ten,600,900,600,900
+Illinois,Big Ten,600,900,600,900
+Washington,Big Ten,600,900,600,900
+Minnesota,Big Ten,600,800,600,800
+Nebraska,Big Ten,600,700,600,700
+Northwestern,Big Ten,600,700,600,700
+Penn State,Big Ten,600,700,600,700
+UCLA,Big Ten,600,300,600,300
+Rutgers,Big Ten,600,500,600,500
+Wisconsin,Big Ten,600,400,600,400
+Maryland,Big Ten,600,400,600,400
+Michigan State,Big Ten,600,400,600,400
+Purdue,Big Ten,600,200,600,200
+Kennesaw State,CUSA,600,1000,600,1000
+Jacksonville State,CUSA,600,900,600,900
+Western Kentucky,CUSA,600,900,600,900
+Louisiana Tech,Sun Belt (West),600,800,600,800
+FIU,CUSA,600,700,600,700
+Missouri State,CUSA,600,700,600,700
+Delaware,CUSA,600,700,600,700
+Liberty,CUSA,600,400,600,400
+New Mexico State,CUSA,600,400,600,400
+Middle Tennessee State,CUSA,600,300,600,300
+Sam Houston,CUSA,600,200,600,200
+UTEP,MWC,600,200,600,200
+Notre Dame,Independent,600,1000,600,1000
+UConn,Independent,600,900,600,900
+Oregon State,Pac-12,600,700,600,700
+Washington State,Pac-12,600,200,600,200
+Western Michigan,MAC,600,1000,600,1000
+Ohio,MAC,600,900,600,900
+Toledo,MAC,600,800,600,800
+Miami (OH),MAC,600,700,600,700
+Central Michigan,MAC,600,700,600,700
+Akron,MAC,600,500,600,500
+Buffalo,MAC,600,500,600,500
+Kent State,MAC,600,500,600,500
+Ball State,MAC,600,400,600,400
+Eastern Michigan,MAC,600,400,600,400
+Bowling Green,MAC,600,400,600,400
+Northern Illinois,MWC,600,300,600,300
+Massachusetts,MAC,600,0,600,0
+Boise State,Pac-12,600,900,600,900
+UNLV,MWC,600,1000,600,1000
+New Mexico,MWC,600,900,600,900
+San Diego State,Pac-12,600,900,600,900
+Fresno State,Pac-12,600,900,600,900
+Hawaii,MWC,600,900,600,900
+Utah State,Pac-12,600,600,600,600
+Air Force,MWC,600,400,600,400
+Wyoming,MWC,600,400,600,400
+Nevada,MWC,600,300,600,300
+San Jose State,MWC,600,300,600,300
+Colorado State,Pac-12,600,200,600,200
+Georgia,SEC,600,1200,600,1200
+Ole Miss,SEC,600,1300,600,1300
+Texas A&M,SEC,600,1100,600,1100
+Alabama,SEC,600,1100,600,1100
+Oklahoma,SEC,600,1000,600,1000
+Texas,SEC,600,1000,600,1000
+Vanderbilt,SEC,600,1000,600,1000
+Missouri,SEC,600,800,600,800
+Tennessee,SEC,600,800,600,800
+LSU,SEC,600,700,600,700
+Kentucky,SEC,600,500,600,500
+Florida,SEC,600,400,600,400
+Auburn,SEC,600,500,600,500
+Mississippi State,SEC,600,500,600,500
+South Carolina,SEC,600,400,600,400
+Arkansas,SEC,600,200,600,200
+James Madison,Sun Belt (East),600,1200,600,1200
+Old Dominion,Sun Belt (East),600,1000,600,1000
+Coastal Carolina,Sun Belt (East),600,600,600,600
+Georgia Southern,Sun Belt (East),600,700,600,700
+Marshall,Sun Belt (East),600,500,600,500
+Appalachian State,Sun Belt (East),600,500,600,500
+Georgia State,Sun Belt (East),600,100,600,100
+Troy,Sun Belt (West),600,800,600,800
+Arkansas State,Sun Belt (West),600,700,600,700
+Southern Mississippi,Sun Belt (West),600,700,600,700
+Louisiana,Sun Belt (West),600,600,600,600
+Texas State,Pac-12,600,700,600,700
+South Alabama,Sun Belt (West),600,400,600,400
+Louisiana-Monroe,Sun Belt (West),600,300,600,300
+North Dakota State,MWC,600,0,600,0
+Sacramento State,MAC,600,0,600,0
