@@ -27,10 +27,10 @@ def report_game_result(home_team, away_team, home_points, away_points):
 
     # Actual results value
     if home_points > away_points:
-        home_actual = 1 - (away_points / home_points)
+        home_actual = 2 - (away_points / home_points)
         away_actual = away_points / home_points
     else:
-        away_actual = 1 - (home_points / away_points)
+        away_actual = 2 - (home_points / away_points)
         home_actual = home_points / away_points
     
     
@@ -102,11 +102,11 @@ def adjust_for_games(games_to_add):
         report_game_result(get_valid_team(row.Home_Team), get_valid_team(row.Away_Team),
                            row.Home_Score, row.Away_Score)
 
-    team_info.to_csv("Team Info.csv")
+    team_info.to_csv("Team Info.csv", index=False)
 
 #report_game_result("Miami (FL)", "Duke", 0, 24)
 
-#adjust_for_games("GamesToAdd.csv")
+adjust_for_games("GamesToAdd.csv")
 
 def display_top_25():
     teams_sorted_u = team_info.sort_values(by= "Current Unbiased Score", ascending= False)
@@ -122,6 +122,13 @@ def display_top_25():
         print(f"{j+1}: {teams_sorted_b.iloc[j, 1]}")
 
 display_top_25()
+
+def reset_current_score():
+    team_info["Current Unbiased Score"] = team_info["Starting Unbiased Score"]
+    team_info["Current Biased Score"] = team_info["Starting Biased Score"]
+    team_info.to_csv("Team Info.csv", index=False)
+
+#reset_current_score()
 
     
 
